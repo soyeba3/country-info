@@ -104,7 +104,7 @@ const CountryDetail = () => {
                 {/* </div> */}
                 <div className='map-div'>
                 <LoadScript
-                    googleMapsApiKey="AIzaSyAmdrjU2hJs_dV0qqDmOCOGnu_pOdhUnJA"
+                    googleMapsApiKey=""
                     >
                     <GoogleMap
                         mapContainerStyle={containerStyle}
